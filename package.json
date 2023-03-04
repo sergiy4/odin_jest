@@ -1,0 +1,17 @@
+{
+  "name": "tesst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^21.2.1"
+
+  }
+}
